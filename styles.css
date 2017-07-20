@@ -1,0 +1,32 @@
+h1 {
+	text-align: center;
+}
+
+.jumbotron {
+	background-color: red;
+	color: white;
+}
+
+.searchForm, .articleSearch {
+	border: solid 2px red;
+	border-radius: 10px;
+}
+
+.searchParam, .articleParam {
+	background-color: red;
+	color: white;
+}
+
+.row {
+	margin-top: 50px;
+	margin-bottom: 50px;
+	margin-right: 0px;
+	margin-left: 0px;
+}
+
+form, .articleYield {
+	padding: 15px;
+}
+
+
+
